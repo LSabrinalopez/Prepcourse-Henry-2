@@ -1,2 +1,1 @@
-# Prepcourse-Henry-2
-Segunda Prueba 
+Segunda prueba de como crear un repositorio
